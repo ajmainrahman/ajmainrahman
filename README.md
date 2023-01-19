@@ -53,8 +53,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ajmainrahman)](https://github.com/anuraghazra/github-readme-stats)
 
 
-![GitHub metrics](https://metrics.lecoq.io/ajmainrahman)  
-
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
