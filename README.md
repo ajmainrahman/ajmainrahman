@@ -60,7 +60,7 @@ src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" w
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ajmainrahman)](https://github.com/anuraghazra/github-readme-stats)
 
-
+[![roadmap.sh](https://roadmap.sh/card/tall/683d4741d3156c8eaf75d424?variant=dark)](https://roadmap.sh)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
