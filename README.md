@@ -1,5 +1,5 @@
 ### Hi there 👋, Moshfiqur Rahman Ajmain
-#### Machine Learning || Artificial Intelligence || Natural Language Processing || Computer Vision || Research 
+#### Computer Vision || Machine Learning || Artificial Intelligence || Natural Language Processing 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ajmainrahman)  
 
@@ -12,9 +12,9 @@
 
 <p align="left"> <a href="https://twitter.com/ajmain_rahman5" target="blank"><img src="https://img.shields.io/twitter/follow/ajmain_rahman5?logo=twitter&style=for-the-badge" alt="ajmain_rahman5" /></a> </p>
 
-- 🔭 I’m currently working on **Computer Vision**
+- 🔭 I’m currently working on **Computer Vision & Artificial Intelligence**
 
-- 🌱 I’m currently learning **NLP, Computer Vision, HTML & CSS**
+- 🌱 I’m currently learning **Data Engineering**
 
 - 👨‍💻 All of my projects are available at [https://sites.google.com/diu.edu.bd/moshfiqurrahmanajmain/project-development](https://sites.google.com/diu.edu.bd/moshfiqurrahmanajmain/project-development)
 
