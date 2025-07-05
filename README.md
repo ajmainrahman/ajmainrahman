@@ -1,8 +1,6 @@
 ### Hi there 👋, Moshfiqur Rahman Ajmain
 #### Computer Vision || Machine Learning || Artificial Intelligence || Natural Language Processing 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ajmainrahman)  
-
 <h1 align="center">Hi 👋, I'm AJmain</h1>
 <h3 align="center">A passionate Data Scientist & Researcher from Bangladesh</h3>
 
