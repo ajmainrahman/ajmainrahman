@@ -3,13 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajmainrahman&label=Profile%20views&color=0e75b6&style=flat" alt="ajmainrahman" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ajmainrahman" alt="ajmainrahman" /></a> </p>
-
 - 🔭 I’m currently working on
-- **Machine Learning (Supervised & Unsupervised)**
-- **Biomedical Imaging**
-- **Computer Vision & Artificial Intelligence**
-- **Natural Language Processing**
+  - Machine Learning (Supervised & Unsupervised)
+  - Biomedical Imaging
+  - Computer Vision & Artificial Intelligence
+  - Natural Language Processing
 
 - 🌱 I’m currently learning **Data Engineering**
 
