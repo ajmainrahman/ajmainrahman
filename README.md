@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ajmainrahman" alt="ajmainrahman" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/ajmain_rahman5" target="blank"><img src="https://img.shields.io/twitter/follow/ajmain_rahman5?logo=twitter&style=for-the-badge" alt="ajmain_rahman5" /></a> </p>
-
 - 🔭 I’m currently working on
 - **Machine Learning (Supervised & Unsupervised)**
 - **Biomedical Imaging**
@@ -25,7 +23,6 @@
 <p align="left">
 <a href="https://stackoverflow.com/users/21039513/moshfiqur-rahman-ajmain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/21039513/moshfiqur-rahman-ajmain" height="30" width="40" /></a>
 <a href="https://www.kaggle.com/ajmainrahman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/ajmainrahman" height="30" width="40" /></a>
-<a href="https://www.instagram.com/_ajmuu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/_ajmuu/" height="30" width="40" /></a>
 <a href="https://medium.com/@ajmainrahman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ajmainrahman" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/ajmainrahman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/ajmainrahman" height="30" width="40" /></a>
 </p>
