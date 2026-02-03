@@ -10,12 +10,7 @@
   - Natural Language Processing
 
 - 🌱 I’m currently learning **Data Engineering**
-
-- 👨‍💻 All of my projects are available at [https://sites.google.com/diu.edu.bd/moshfiqurrahmanajmain/project-development](https://sites.google.com/diu.edu.bd/moshfiqurrahmanajmain/project-development)
-
 - 📫 How to reach me **ajmain736@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1v95xSJO-9YeAo4dezpGDPL67H8B2YZVb/view](https://drive.google.com/file/d/1v95xSJO-9YeAo4dezpGDPL67H8B2YZVb/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -37,10 +32,6 @@ src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" w
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
   
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=ajmainrahman)  
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ajmainrahman)](https://github.com/anuraghazra/github-readme-stats)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
