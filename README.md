@@ -1,8 +1,7 @@
 ### Hi there 👋, Moshfiqur Rahman Ajmain
-#### Data Scientist (AI - Vision - NLP)
 
 <h1 align="center">Hi 👋, I'm AJmain</h1>
-<h3 align="center">A passionate Data Scientist & Researcher from Bangladesh</h3>
+<h3 align="center">Data Scientist (AI - Vision - NLP)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajmainrahman&label=Profile%20views&color=0e75b6&style=flat" alt="ajmainrahman" /> </p>
 
