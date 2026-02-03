@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajmainrahman&label=Profile%20views&color=0e75b6&style=flat" alt="ajmainrahman" /> </p>
 
 - 🔭 I’m currently working on
-  - Machine Learning (Supervised & Unsupervised)
+  - Machine Learning 
   - Biomedical Imaging
   - Computer Vision & Artificial Intelligence
   - Natural Language Processing
