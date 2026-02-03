@@ -1,5 +1,5 @@
 ### Hi there 👋, Moshfiqur Rahman Ajmain
-#### Computer Vision || Machine Learning || Artificial Intelligence || Natural Language Processing 
+#### Data Scientist (AI - Vision - NLP)
 
 <h1 align="center">Hi 👋, I'm AJmain</h1>
 <h3 align="center">A passionate Data Scientist & Researcher from Bangladesh</h3>
