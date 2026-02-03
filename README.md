@@ -9,7 +9,7 @@
   - Computer Vision & Artificial Intelligence
   - Natural Language Processing
 
-- 🌱 I’m currently learning **Data Engineering**
+- 🌱 Like Humans, Machine Leaning Models make Mistakes
 - 📫 How to reach me **ajmain736@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
