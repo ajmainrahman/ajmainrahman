@@ -7,7 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/ajmain_rahman5" target="blank"><img src="https://img.shields.io/twitter/follow/ajmain_rahman5?logo=twitter&style=for-the-badge" alt="ajmain_rahman5" /></a> </p>
 
-- 🔭 I’m currently working on **Computer Vision & Artificial Intelligence**
+- 🔭 I’m currently working on
+- **Machine Learning (Supervised & Unsupervised)**
+- **Biomedical Imaging**
+- **Computer Vision & Artificial Intelligence**
+- **Natural Language Processing**
 
 - 🌱 I’m currently learning **Data Engineering**
 
